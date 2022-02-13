@@ -20,6 +20,8 @@ import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import gericht from '../assets/gericht.png';
 import logoWeißTr from '../assets/logo-weiß-tr.png';
+import familiePic from '../assets/FamilieKrafft.jpg';
+import klettern from '../assets/Klettern.jpg';
 
 export default {
   bg,
@@ -44,4 +46,6 @@ export default {
   quote,
   gericht,
   logoWeißTr,
+  familiePic,
+  klettern,
 };
